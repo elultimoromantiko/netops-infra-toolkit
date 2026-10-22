@@ -11,7 +11,7 @@
   "keywords": ["infraestructura", "iac", "validaciones"],
   "license": "MIT",
   "dependencies": {
-    "lodash": "4.17.15"
+    "lodash": "4.18.1"
   },
   "devDependencies": {
     "@types/jest": "^29.5.0",
